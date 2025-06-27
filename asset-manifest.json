@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Weather-forcasting-from-react/static/css/main.3b7b7931.css",
-    "main.js": "/Weather-forcasting-from-react/static/js/main.bb268804.js",
+    "main.js": "/Weather-forcasting-from-react/static/js/main.5502876b.js",
     "index.html": "/Weather-forcasting-from-react/index.html",
     "main.3b7b7931.css.map": "/Weather-forcasting-from-react/static/css/main.3b7b7931.css.map",
-    "main.bb268804.js.map": "/Weather-forcasting-from-react/static/js/main.bb268804.js.map"
+    "main.5502876b.js.map": "/Weather-forcasting-from-react/static/js/main.5502876b.js.map"
   },
   "entrypoints": [
     "static/css/main.3b7b7931.css",
-    "static/js/main.bb268804.js"
+    "static/js/main.5502876b.js"
   ]
 }
